@@ -1,0 +1,8 @@
+C:\Users\cris_\Desktop\Structs\AulaStructs\AulaStructs\bin\Debug\AulaStructs.exe.config
+C:\Users\cris_\Desktop\Structs\AulaStructs\AulaStructs\bin\Debug\AulaStructs.exe
+C:\Users\cris_\Desktop\Structs\AulaStructs\AulaStructs\bin\Debug\AulaStructs.pdb
+C:\Users\cris_\Desktop\Structs\AulaStructs\AulaStructs\obj\Debug\AulaStructs.csproj.AssemblyReference.cache
+C:\Users\cris_\Desktop\Structs\AulaStructs\AulaStructs\obj\Debug\AulaStructs.csproj.SuggestedBindingRedirects.cache
+C:\Users\cris_\Desktop\Structs\AulaStructs\AulaStructs\obj\Debug\AulaStructs.csproj.CoreCompileInputs.cache
+C:\Users\cris_\Desktop\Structs\AulaStructs\AulaStructs\obj\Debug\AulaStructs.exe
+C:\Users\cris_\Desktop\Structs\AulaStructs\AulaStructs\obj\Debug\AulaStructs.pdb
